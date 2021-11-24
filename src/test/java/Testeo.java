@@ -10,7 +10,7 @@ public class Testeo {
 
     @Test
     public void esParTrueTest(){
-        boolean result = funciones.esPar(2);
+        boolean result = funciones.esPar(1);
         assertTrue(result);
     }
 
